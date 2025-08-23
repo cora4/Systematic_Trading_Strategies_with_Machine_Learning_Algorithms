@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./images/logo.png" alt="Logo" width="40%"/>
+    <img src="./images/logo.jpg" alt="Logo" width="40%"/>
 </div>
 
 Welcome to you all !
@@ -57,10 +57,10 @@ This [GitHub page](https://hm-ai.github.io/Systematic_Trading_Strategies_with_Ma
 
 # **Past Exams**
 
-| Title         | Year | Exam                                       | Solution                                                      |
-|---------------|------|--------------------------------------------|---------------------------------------------------------------|
-| Mock Exam     | 2025 | [Mock Exam 2025](Exams/Mock_Exam_2025.pdf) | [Solution Mock Exam 2025](Exams/Solution_Mock_Exam_2025.pdf)  | 
-| Final Exam    | 2025 | -                                          | -                                                             |
+| Title         | Year | Exam                                          | Solution                                                     |
+|---------------|------|-----------------------------------------------|--------------------------------------------------------------|
+| Mock Exam     | 2025 | [Mock Exam 2025](Exams/Mock_Exam_2025.pdf)    | [Solution Mock Exam 2025](Exams/Solution_Mock_Exam_2025.pdf) | 
+| Final Exam    | 2025 | [Exam 2025](Exams/Exam_2025.pdf)              | [Solution Exam 2025](Exams/Solution_Exam_2025.pdf)           |
 
 
 # **MCQs**
@@ -78,16 +78,6 @@ This [GitHub page](https://hm-ai.github.io/Systematic_Trading_Strategies_with_Ma
 | 06-12-2025 | **Lecture 7 (Part 3) - Review Session - Programming Session** Volatility Forecasting with Temporal Fusion Transformers | [Quiz7_link](https://forms.gle/Uoh4Vj4Zq8oG4nde8) <br> [Quiz7_pdf](Quiz/Quiz_7.pdf) | [Solution7_pdf](Solution_Quiz/Solution_Quiz_7.pdf) | 
 
 ---  
-
-
-# **Final Exam**
-
-| **Date**   | Exam | Solution | Final Results |
-|------------|------|----------|---------------|
-| 06-18-2025 |      |          |               |
-
-
---- 
 
 
 

@@ -1,6 +1,6 @@
 Welcome to you all !
 
-This [GitHub page](https://hm-ai.github.io/Systematic_Trading_Strategies_with_Machine_Learning_Algorithms/) contains the materials for the course "Systematic Trading Strategies with Machine Learning Algorithms".
+This [GitHub page](https://cora4.github.io/Systematic_Trading_Strategies_with_Machine_Learning_Algorithms/) contains the materials for the course "Systematic Trading Strategies with Machine Learning Algorithms".
 
 # **Getting Started**
 

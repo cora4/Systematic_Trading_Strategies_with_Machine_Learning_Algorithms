@@ -4,7 +4,7 @@
 
 Welcome to you all !
 
-This [GitHub page](https://hm-ai.github.io/Systematic_Trading_Strategies_with_Machine_Learning_Algorithms/) contains the materials for the course "Systematic Trading Strategies with Machine Learning Algorithms" at Imperial College Business College.
+This [GitHub page](https://hm-ai.github.io/Systematic_Trading_Strategies_with_Machine_Learning_Algorithms/) contains the materials for the course "Systematic Trading Strategies with Machine Learning Algorithms".
 
 # **Getting Started**
 
@@ -39,12 +39,12 @@ This [GitHub page](https://hm-ai.github.io/Systematic_Trading_Strategies_with_Ma
 |---------------|-------------|--------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Thurs 22 May  | 13:00–14:00 | Business School Boardroom                                    | Level 1, in the offices opposite LT1                                                                                                                                   |
 | Thurs 22 May  | 17:00–18:00 | LT2                                                          | Same lecture theatre as class.                                                                                                                                         |
-| Thurs 29 May  | 13:00–14:00 | CAGB 475                                                     | From Level 1 of the Business School, go through the door by the elevators/toilets into the City and Guilds hallway. Room is on the left as you enter the main hallway. |
+| Thurs 29 May  | 13:00–14:00 | CAGB 475                                                     | From Level 1 of the Business School, go through the door by the lifts/toilets into the City and Guilds hallway. Room is on the left as you enter the main hallway. |
 | Thurs 29 May  | 17:00–18:00 | LT2                                                          | Same lecture theatre as class.                                                                                                                                         |
 | Thurs 05 June | 13:00–14:00 | Business School Boardroom                                    | Same location as 22 May                                                                                                                                                |
 | Thurs 05 June | 17:00–18:00 | LT2                                                          | Same lecture theatre as class.                                                                                                                                         |
-| Thurs 12 June | 13:00–14:00 | Meeting Room 0.09 On the Basement Level of 53 Prince's Gate  | 53 Prince's Gate is across the road, opposite the main Imperial entrance. Take the stairs down to the basement level and you will see room 0.09.                       |
-| Thurs 12 June | 17:00–18:00 | Meeting Room 0.09 On the Basement Level of 53 Prince's Gate  | 53 Prince's Gate is across the road, opposite the main Imperial entrance. Take the stairs down to the basement level and you will see room 0.09.                       |
+| Thurs 12 June | 13:00–14:00 | Meeting Room 0.09 On the Basement Level of 53 Prince's Gate  | 53 Prince's Gate is across the road, opposite the main entrance. Take the stairs down to the basement level and you will see room 0.09.                       |
+| Thurs 12 June | 17:00–18:00 | Meeting Room 0.09 On the Basement Level of 53 Prince's Gate  | 53 Prince's Gate is across the road, opposite the main entrance. Take the stairs down to the basement level and you will see room 0.09.                       |
 
 
 
@@ -76,12 +76,3 @@ This [GitHub page](https://hm-ai.github.io/Systematic_Trading_Strategies_with_Ma
 | 05-29-2025 | **Lecture 7 (Part 1):** Neural Networks for Interpretable Time Series Forecasting                                      | –                                                                                   | –                                                  | 
 | 06-05-2025 | **Lecture 7 (Part 2) - Review Session**                                                                                | –                                                                                   | –                                                  | 
 | 06-12-2025 | **Lecture 7 (Part 3) - Review Session - Programming Session** Volatility Forecasting with Temporal Fusion Transformers | [Quiz7_link](https://forms.gle/Uoh4Vj4Zq8oG4nde8) <br> [Quiz7_pdf](Quiz/Quiz_7.pdf) | [Solution7_pdf](Solution_Quiz/Solution_Quiz_7.pdf) | 
-
----  
-
-
-
-
-
-# **Contact**
-Should you have any inquiries about the practical implementations, don't hesitate to email h.madmoun@ic.ac.uk

@@ -1,7 +1,3 @@
-<div align="center">
-    <img src="./images/logo.jpg" alt="Logo" width="10%"/>
-</div>
-
 Welcome to you all !
 
 This [GitHub page](https://hm-ai.github.io/Systematic_Trading_Strategies_with_Machine_Learning_Algorithms/) contains the materials for the course "Systematic Trading Strategies with Machine Learning Algorithms".
@@ -67,12 +63,12 @@ This [GitHub page](https://hm-ai.github.io/Systematic_Trading_Strategies_with_Ma
 
 | **Date**   | **Topic**                                                                                                              | **MCQ**                                                                             | **Solution**                                       | 
 |------------|------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|----------------------------------------------------| 
-| 04-10-2025 | **Lecture 1:** Introduction to Systematic Strategies with Machine Learning                                             | [Quiz1_link](https://forms.gle/RDyctQvfY5unEbKH8) <br> [Quiz1_pdf](Quiz/Quiz_1.pdf) | [Solution1_pdf](Solution_Quiz/Solution_Quiz_1.pdf) | 
-| 04-24-2025 | **Lecture 2:** Introduction to Unsupervised Learning Techniques                                                        | [Quiz2_link](https://forms.gle/QHC3meaZr6bPYqej9) <br> [Quiz2_pdf](Quiz/Quiz_2.pdf) | [Solution2_pdf](Solution_Quiz/Solution_Quiz_2.pdf) | 
-| 05-01-2025 | **Lecture 3:** Latent Variable Models in Financial Asset Regime Detection                                              | [Quiz3_link](https://forms.gle/eWUYm7mr1JH3ULSG8) <br> [Quiz3_pdf](Quiz/Quiz_3.pdf) | [Solution3_pdf](Solution_Quiz/Solution_Quiz_3.pdf) |
-| 05-08-2025 | **Lecture 4:** Supervised Learning Algorithms                                                                          | [Quiz4_link](https://forms.gle/K7SBmjxmxXHiiw1a9) <br> [Quiz4_pdf](Quiz/Quiz_4.pdf) | [Solution4_pdf](Solution_Quiz/Solution_Quiz_4.pdf) | 
+| 04-10-2025 | **Lecture 1:** Introduction to Systematic Strategies with Machine Learning                                             | [Quiz1_pdf](Quiz/Quiz_1.pdf) | [Solution1_pdf](Solution_Quiz/Solution_Quiz_1.pdf) | 
+| 04-24-2025 | **Lecture 2:** Introduction to Unsupervised Learning Techniques                                                        | [Quiz2_pdf](Quiz/Quiz_2.pdf) | [Solution2_pdf](Solution_Quiz/Solution_Quiz_2.pdf) | 
+| 05-01-2025 | **Lecture 3:** Latent Variable Models in Financial Asset Regime Detection                                              | [Quiz3_pdf](Quiz/Quiz_3.pdf) | [Solution3_pdf](Solution_Quiz/Solution_Quiz_3.pdf) |
+| 05-08-2025 | **Lecture 4:** Supervised Learning Algorithms                                                                          | [Quiz4_pdf](Quiz/Quiz_4.pdf) | [Solution4_pdf](Solution_Quiz/Solution_Quiz_4.pdf) | 
 | 05-15-2025 | **Lecture 5 (Programming Session):** Enhancing Strategy Performance in Crypto Markets                                  | –                                                                                   | –                                                  | 
 | 05-22-2025 | **Lecture 6 (Programming Session):** Introducing Variable Selection Networks                                           | –                                                                                   | –                                                  |
 | 05-29-2025 | **Lecture 7 (Part 1):** Neural Networks for Interpretable Time Series Forecasting                                      | –                                                                                   | –                                                  | 
 | 06-05-2025 | **Lecture 7 (Part 2) - Review Session**                                                                                | –                                                                                   | –                                                  | 
-| 06-12-2025 | **Lecture 7 (Part 3) - Review Session - Programming Session** Volatility Forecasting with Temporal Fusion Transformers | [Quiz7_link](https://forms.gle/Uoh4Vj4Zq8oG4nde8) <br> [Quiz7_pdf](Quiz/Quiz_7.pdf) | [Solution7_pdf](Solution_Quiz/Solution_Quiz_7.pdf) | 
+| 06-12-2025 | **Lecture 7 (Part 3) - Review Session - Programming Session** Volatility Forecasting with Temporal Fusion Transformers | [Quiz7_pdf](Quiz/Quiz_7.pdf) | [Solution7_pdf](Solution_Quiz/Solution_Quiz_7.pdf) | 
